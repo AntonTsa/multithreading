@@ -1,8 +1,8 @@
-Task 1
+<h2>Task 1</h2>
 I wrote a program that displays the time elapsed since the program was started every second.
 The second thread of the same program displays the message 5 seconds have passed every 5 seconds.
 
-Task 2
+<h2>Task 2</h2>
 I wrote program that prints a string of numbers from 1 to n to the console, but with some values replaced:
 
 if the number is divisible by 3 - print fizz
